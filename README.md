@@ -14,4 +14,4 @@ This is intended as a project to learn more about the blockchain and NFTS in gen
 
 This project utilised https://github.com/HashLips/hashlips_art_engine as a boilerplate. It was expanded to include NFT metadata generation, minting and interplanetary system file upload scripts
 
-***source code, images and metadata available on request via: *** google drive link
+***source code, images and metadata available on request via:*** google drive link
