@@ -1,6 +1,7 @@
 # Sobzee Squad
 
-![Image](https://lh3.googleusercontent.com/g8gRcnXYpkts4lVP2uU31_YdbJZEVJUmHijMznV8BDVohVhyfi-v0JPvckb_Zf1lzrYyZGgfQ0KMuefhgWEKJU1PNQlKj6V2Qdlr=s0)
+
+<img src="https://lh3.googleusercontent.com/g8gRcnXYpkts4lVP2uU31_YdbJZEVJUmHijMznV8BDVohVhyfi-v0JPvckb_Zf1lzrYyZGgfQ0KMuefhgWEKJU1PNQlKj6V2Qdlr=s0" alt="SobzeeSquad gif" width="200"/>
 
 This project is an online NFT collection available at: https://opensea.io/collection/sobzee-squad
 
